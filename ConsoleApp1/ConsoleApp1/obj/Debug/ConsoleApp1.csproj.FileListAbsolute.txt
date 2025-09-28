@@ -1,0 +1,9 @@
+D:\BTTC\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\BTTC\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\BTTC\ConsoleApp1\ConsoleApp1\bin\Debug\UniqueArtLib.dll
+D:\BTTC\ConsoleApp1\ConsoleApp1\bin\Debug\UniqueArtLib.pdb
+D:\BTTC\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\BTTC\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\BTTC\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleA.CB28C8CC.Up2Date
+D:\BTTC\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\BTTC\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

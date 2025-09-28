@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\BTTC\WebApplication1</_PublishTargetUrl>
+    <History>True|2025-09-27T07:52:33.9374999Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="api.aspx">
+      <publishTime>09/27/2025 14:38:05</publishTime>
+    </File>
+    <File Include="bin/UniqueArtLib.dll">
+      <publishTime>09/27/2025 14:12:04</publishTime>
+    </File>
+    <File Include="bin/UniqueArtLib.pdb">
+      <publishTime>09/27/2025 14:12:04</publishTime>
+    </File>
+    <File Include="bin/WebApplication1.dll">
+      <publishTime>09/27/2025 14:52:33</publishTime>
+    </File>
+    <File Include="bin/WebApplication1.pdb">
+      <publishTime>09/27/2025 14:52:33</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>09/27/2025 14:38:05</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/27/2025 14:52:33</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

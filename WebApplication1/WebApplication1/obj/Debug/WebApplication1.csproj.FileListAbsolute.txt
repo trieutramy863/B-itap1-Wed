@@ -1,0 +1,10 @@
+D:\BTTC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+D:\BTTC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\BTTC\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\BTTC\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\BTTC\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\BTTC\WebApplication1\WebApplication1\bin\UniqueArtLib.dll
+D:\BTTC\WebApplication1\WebApplication1\bin\UniqueArtLib.pdb
+D:\BTTC\WebApplication1\WebApplication1\obj\Debug\WebAppli.7D14BD69.Up2Date
+D:\BTTC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\BTTC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

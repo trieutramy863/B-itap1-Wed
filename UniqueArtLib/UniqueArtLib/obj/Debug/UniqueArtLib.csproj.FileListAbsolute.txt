@@ -1,0 +1,6 @@
+D:\BTTC\UniqueArtLib\UniqueArtLib\bin\Debug\UniqueArtLib.dll
+D:\BTTC\UniqueArtLib\UniqueArtLib\bin\Debug\UniqueArtLib.pdb
+D:\BTTC\UniqueArtLib\UniqueArtLib\obj\Debug\UniqueArtLib.csproj.AssemblyReference.cache
+D:\BTTC\UniqueArtLib\UniqueArtLib\obj\Debug\UniqueArtLib.csproj.CoreCompileInputs.cache
+D:\BTTC\UniqueArtLib\UniqueArtLib\obj\Debug\UniqueArtLib.dll
+D:\BTTC\UniqueArtLib\UniqueArtLib\obj\Debug\UniqueArtLib.pdb
